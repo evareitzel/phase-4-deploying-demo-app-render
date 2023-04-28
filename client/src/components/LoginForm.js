@@ -39,7 +39,7 @@ function LoginForm({ onLogin }) {
         />
       </FormField>
       <FormField>
-        <Label htmlFor="password">Password</Label>
+        <Label htmlFor="password">Clever Password</Label>
         <Input
           type="password"
           id="password"
